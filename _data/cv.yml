@@ -90,22 +90,7 @@ cv:
           Proposes a maximum-entropy framework
           for the design and optimization of water distribution networks.
 
-    Research:
-      - name: Behavioral Epidemic Dynamics and Evolutionary Games
-        start_date: 2025
-        end_date: Present
-        summary: >
-          Studying the interaction between epidemic spreading and strategic
-          behavioral adaptation using evolutionary game theory and nonlinear
-          dynamical systems.
 
-      - name: Maximum-Entropy Optimization of Water Distribution Networks
-        start_date: 2024
-        end_date: 2025
-        summary: >
-          Developed graph-based deterministic-annealing algorithms for
-          optimizing the structure and performance of water distribution
-          networks.
 
 
     Languages:

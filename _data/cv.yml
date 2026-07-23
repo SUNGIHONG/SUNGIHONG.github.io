@@ -4,21 +4,18 @@ cv:
   email: sungih2@tamu.edu
   location: College Station, TX
   image: ""
-  summary: Ph.D. Student in Industrial Engineering
+  summary: >
+    Ph.D. student in Industrial Engineering at Texas A&M University.
+    My research interests include game-theoretic epidemic modeling,
+    dynamical systems, network optimization, and human behavior in
+    networked systems.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
 
   address:
     street: 101 Bizzell St
     city: College Station
     region: Texas
-    postalCode: TX, 77843
+    postalCode: "77843"
     countryCode: US
 
   sections:
@@ -26,109 +23,95 @@ cv:
       - institution: Texas A&M University
         location: College Station, TX
         area: Industrial Engineering
-        studyType: PhD
+        studyType: Ph.D.
         start_date: 2025
-        end_date: 
+        end_date: Present
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Advisor: Prof. Ceyhun Eksin
-          
+          - "Advisor: Prof. Ceyhun Eksin"
+          - "Research focus: game-theoretic epidemic modeling, behavioral dynamics, and societal systems"
 
-      - institution: University of Illinois at Urbana Chapaign
-        location: Urbana, Illinois
+      - institution: University of Illinois Urbana-Champaign
+        location: Urbana, IL
         area: Industrial Engineering
-        studyType: MS
+        studyType: M.S.
         start_date: 2023
         end_date: 2025
+        score: ""
         highlights:
-          - Prof. Carolyn L. Beck
-         
+          - "Advisor: Prof. Carolyn L. Beck"
+          - "Thesis: Maximum Entropy Approach for Water Distribution Network Optimization"
+          - "Relevant coursework: Nonlinear Optimization, Big Data and Clustering, Stochastic Processes, and Real Analysis"
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: Seoul National University of Science and Technology
+        location: Seoul, South Korea
+        area: Safety Engineering
+        studyType: B.S.
+        start_date: 2018
+        end_date: 2023
+        score: ""
         highlights:
-          - Relativity
-          - Description 2.
+          -"Took a leave of absence for three semesters due to compulsory military service in the Republic of Korea Army"
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-  
 
     Awards:
-      - title: 2025 IEEE CCTA Travel Grant
+      - title: 2025 IEEE CCTA Student Travel Grant
         authors:
           - "IEEE Control Systems Society"
         date: 2025
         awarder: IEEE Control Systems Society
-        
+        summary: >
+          Travel support for presenting research at the 2025 IEEE Conference
+          on Control Technology and Applications.
 
-     
     Publications:
-
-    - title: A Behavior-Coupled SEIR Model for Population Response Estimation and Epidemic Forecasting
+      - title: A Behavior-Coupled SEIR Model for Population Response Estimation and Epidemic Forecasting
         authors:
-          - Sungi Hong, Soham Das, Hossein Khazaei, Alfredo Garcia, Keith Paarporn, Ceyhun Eksin
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "Sungi Hong"
+          - "Soham Das"
+          - "Hossein Khazaei"
+          - "Alfredo Garcia"
+          - "Keith Paarporn"
+          - "Ceyhun Eksin"
+        publisher: Submitted
+        releaseDate: ""
+        url: ""
+        summary: >
+  
 
       - title: Maximum Entropy Approach for Water Distribution Network Optimization
         authors:
-          - Sungi Hong, Carolyn L. Beck
-        publisher: IEEE
+          - "Sungi Hong"
+          - "Carolyn L. Beck"
+        publisher: 2025 IEEE Conference on Control Technology and Applications
         releaseDate: 2025
-        url: https://ieeexplore.ieee.org/abstract/document/11151499?casa_token=EyQGHtG72agAAAAA:Ccg1NBvmeZB02Vomfd6lpuKTU8oPMpggUYOEr7hT6PH1qtquRyUG3kQcq2SAkBjzvNXRWZ1zqQ
-      
+        url: https://ieeexplore.ieee.org/document/11151499
+        summary: >
+          Proposes a maximum-entropy framework
+          for the design and optimization of water distribution networks.
 
-      
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Research:
+      - name: Behavioral Epidemic Dynamics and Evolutionary Games
+        start_date: 2025
+        end_date: Present
+        summary: >
+          Studying the interaction between epidemic spreading and strategic
+          behavioral adaptation using evolutionary game theory and nonlinear
+          dynamical systems.
+
+      - name: Maximum-Entropy Optimization of Water Distribution Networks
+        start_date: 2024
+        end_date: 2025
+        summary: >
+          Developed graph-based deterministic-annealing algorithms for
+          optimizing the structure and performance of water distribution
+          networks.
+
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Korean
+        summary: "Native"
 
       - name: English
-        summary: "Fluent"
+        summary: "Professional working proficiency"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    
